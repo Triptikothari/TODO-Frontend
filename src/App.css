@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: black;
+  padding-top: 10px;
+  color: white;
+}
+
+.App li a {
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: whitesmoke;
+}
+
+body {
+  background-color: white;
+  align-items: center;
+}
+
+.displaytodoapplication
+{
+  text-align: center;
+  justify-content: center;
+}
+
+a{
+  margin-left: 20px;
+}
+
+input{
+margin-left: 20px;
+margin-bottom: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+#displayerror {
+  color: red;
+  margin-left: 20px;
+}
+
+table{
+ border-collapse: collapse;
+ width: 100%;
+}
+
+th {
+  background-color: cornsilk;
+}
+
+td,th{
+  border: 1px solid black;
+  padding: 8px;
+}
+td:hover {
+  background-color: #ddd;
+}
+thead{
+  align-content: center;
+}
+
+#btn {
+  background-color: gray;
+  color: white;
+  font-size: 10px bold;
+  border-radius: 7px;
+  margin-left: 5px;
+}
+
+.react-calendar {
+  margin-left: 500px;
+}
+
+#overlay-example{
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+/* .c {
+  margin-right: 500px;
+} */
+
+
+
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+
+
+

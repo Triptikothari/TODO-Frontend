@@ -1,0 +1,76 @@
+
+        // const finished = (error) =>{
+        //     if(error){
+        //         console.error(error)
+        //         return;
+        //     }
+        //     // }
+        //     next_day = 
+        //    next_month = 
+        //    next_year = 
+
+
+
+        // a = value.toString();
+        // console.log(a.substr(0,10));
+        // selectDate = a.substr(0,10);
+
+        //console.log(c)
+                        //console.log(remaintime);
+                        //console.log(Allotedtime);
+
+        // const jsonData = JSON.stringify(alltask);
+        // fs.writeFile("data.json", jsonData, finished);
+
+        //for week on the basis of date 
+                        // if the task date is same 
+                        //on the basis of task week it will count
+                        // const nooftasks = alltask.length;
+                        //console.log(nooftasks);
+                        
+
+        // const date = new Date (value.toString());
+        // const week = new Date(date.getFullYear(),0,1);
+        // const noofdays = Math.floor((date - week)/(24 * 60 * 60 * 1000));
+        // const result = Math.ceil((date.getDay() + 1 + noofdays) / 7);
+        // console.log("result",result);
+
+        // // console.log("taskweek",taskweek);
+        // // console.log("alltaskweek",alltask);
+
+        // if (e.target.value == alltask)  {
+        //      setcount(count+ 1);
+        //       console.log("alltask length",alltask.length);
+        //       console.log("count", count);
+
+        // }
+          
+
+    //     const sendata ={taskname,taskid,taskdate,taskweek}
+    //      const id = 1;
+    //     fetch(`http://127.0.0.1:8000/api/tododetails/id%20%3D%20${id}`,{
+    //         method: 'PUT',
+    //         headers :{
+    //             'Content-Type' : 'application/json; charset=UTF-8',
+    //         },
+    //         body : JSON.stringify(sendata)
+    //     })
+    //     .then((response) => response.json())
+    //     .then((data) => {
+    //        console.log(data);
+    //       // console.log(alltaskweek)
+    //   })
+        
+        // setalladdtask(a =>[...a,{itemtobedelete}]);
+        // console.log(alladdtask)
+
+        //data of itemtobedeleted send it
+    
+                        // let d = parseInt(tasktime.substring(0,2));
+                        // let t = parseInt(Allotedtime);
+                        // let endtime = d + t;
+                        // settaskendtime(endtime + ":" + tasktime.substring(3,5));
+                  
+    // const date = new Date();
+    // const todayDate = `${date.getDate()}`;
+   
